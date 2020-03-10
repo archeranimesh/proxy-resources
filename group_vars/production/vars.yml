@@ -8,7 +8,7 @@ Stack.Inputs.VpcName: Default
 Stack.Inputs.ApplicationDesiredCount: 2
 Stack.Inputs.ApplicationImageId: ami-067549cdabfbcc3bd
 Stack.Inputs.ApplicationInstanceType: t2.micro
-Stack.Inputs.KeyName: my-docker-production-aws
+Stack.Inputs.KeyName: ubuntuHomeDocker
 
 # Proxy settings
 Stack.Inputs.ProxyImage: 754048514734.dkr.ecr.us-west-2.amazonaws.com/dockerproductionaws/squid
